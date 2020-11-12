@@ -21,7 +21,7 @@
 
 
 ## ABOUT
-Arzoneficial Tech Inc. was incorporated on 15 September 2019.Arzoneficial Tech Inc. has more than 10 Billion dollar assets around the world. The company is located on a 50,000 sq ft of land in Durian Tunggal, Melaka which houses its R&D centre and production line facility. "Our team is running to convert our Malaysian technology to high-end technology. So that we can compete with others country in producing high quality products."
+Subterra Sdn. Bhd. was incorporated on 15 September 2019.Arzoneficial Tech Inc. has more than 10 Billion dollar assets around the world. The company is located on a 50,000 sq ft of land in Durian Tunggal, Melaka which houses its R&D centre and production line facility. "Our team is running to convert our Malaysian technology to high-end technology. So that we can compete with others country in producing high quality products."
 
 ## VISION & MSSION
 

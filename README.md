@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/azri41/iCrime">
-    <img src="logo.png" alt="Logo" width="400" height="400">
+    <img src="logo.png" alt="Logo" width="282" height="282">
   </a>
   <p align="center">
     Beyond the sky

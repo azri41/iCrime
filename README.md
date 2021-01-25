@@ -40,7 +40,7 @@
 <br><br>
  :chart: **Risk Identification Chart** (Quality, Cost, Time)
 
-| <div class="text-green">Control Element</div> | What is likely to go wrong?                  | How and when will I know?             | What will I do about it?                                  |
+| Control Element | What is likely to go wrong?                  | How and when will I know?             | What will I do about it?                                  |
 |-----------------|----------------------------------------------|---------------------------------------|-----------------------------------------------------------|
 | Quality         | Faces could not detect accurately.           | Cameras detect wrong criminals faces. | Modify the algorithm like threshold to detect the faces.  |
 | Cost            | Overexpensive equipments such as cameras.    | Funds are spend to hardware only.     | Find new suppliers to cover the costs.                    |
@@ -79,11 +79,8 @@
 |         Task       |   Estimated Costs(RM)   |          Notes        |
 |--------------------|-------------------------|-----------------------|
 | Acquisition        |      5,272,630.00       |                       |
-| Design             |       391,110.00        |  System Design        |
-|                    |                         |  Data Collection      |
-| Restoration        |      1,328,972.00       |  Camera Installation  |
-|                    |                         |  System Installation  |
-|                    |                         |  Maintenance          |
+| Design             |       391,110.00        |  System Design,Data Collection        |
+| Restoration        |      1,328,972.00       |  Camera Installation, System Installation, Maintenance          |
 
 
  :calendar:   **Milestone Chart**
@@ -117,7 +114,7 @@
 
 **Closing Checklist**
 - [ ]   i. [INSERT Acceptance/Project Completion Form Sign-Off (insert FORM)]
-- [ ]   ii. [INSERT Lessons Learned Document ![iCrimeProjectClosing](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/Project%20Closing%20iCrime.pdf)]
+- [ ]   ii. [INSERT Lessons Learned Document ![iCrimeProjeClosing](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/Project%20Closing%20iCrime.pdf)]
 - [ ]   iii. [INSERT Final Project Report (insert REPORT))]
 - [ ]   iv. [Close Contract (insert CONTRACT))]
 

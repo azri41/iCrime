@@ -113,16 +113,18 @@
 ## E.  COMPLETING THE PROJECT
 
 **Closing Checklist**
-:heavy_check_mark:   i. [SignOff](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/Project%20Closing%20iCrime.pdf)
-:heavy_check_mark:   ii. [LessonLearned](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)
-:heavy_check_mark:   iii. [FinalProjectReport](https://github.com/azri41/iCrime/blob/main/README.md)
-:heavy_check_mark:   iv.  [CloseContract](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)
+<br>
+:heavy_check_mark:   [SignOff](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/Project%20Closing%20iCrime.pdf)
+<br>
+:heavy_check_mark:   [LessonLearned](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)
+<br>
+:heavy_check_mark:   [FinalProjectReport](https://github.com/azri41/iCrime/blob/main/README.md)
+<br>
+:heavy_check_mark:   [CloseContract](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)
+<br>
 
 
 ## F.   PROJECT PRESENTATION 
 - [ ]  [Embed youtube video] or [insert your youtube video link like the example below]
 
 [![Ideaku](https://img.youtube.com/vi/1ByNYN1LQAI/0.jpg)](http://www.youtube.com/watch?v=1ByNYN1LQAI "Ideaku")
-
-
-

@@ -34,11 +34,12 @@
 
  :chart: **Risk Identification Chart** (Quality, Cost, Time)
 
-| Control Element | What is likely to go wrong?                  | How and when will I know? | What will I do about it? |
-|-----------------|----------------------------------------------|---------------------------|--------------------------|
-| Quality         | Faces could not detect accurately.           |                           |                          |
-| Cost            | Overexpensive equipments such as cameras.    |                           |                          |
-| Time            | Time consuming to collect and train the data.|                           |                          |
+| Control Element | What is likely to go wrong?                  | How and when will I know?             | What will I do about it?                                  |
+|-----------------|----------------------------------------------|---------------------------------------|-----------------------------------------------------------|
+| Quality         | Faces could not detect accurately.           | Cameras detect wrong criminals faces. | Modify the algorithm like threshold to detect the faces.  |
+| Cost            | Overexpensive equipments such as cameras.    | Funds are spend to hardware only.     | Find new suppliers to cover the costs.                    |
+| Time            | Time consuming to collect and train the data.| Training process took so long and     
+                                                                   sometimes have an error.              | Train the data by using GPU instead of CPU.               |
 
 
  :green_book:  **Responsibility Assignment Matrices (RAM) :**
@@ -48,14 +49,16 @@
 
  :pushpin:  **Project Planning Summary:**
 
-| Modules/Components |   Budget(RM)   |    Schedule      |    Responsibility    |
-|--------------------|----------------|------------------|----------------------|
-| Acquisition        |  5,272,630.00  |                  |                      |
-|                    |                |                  |                      |
-| Design             |    391,110.00  |                  |                      |
-|                    |                |                  |                      |
-| Restoration        |  1,328,972.00  |                  | Installation         |
-|                    |                |                  |                      |
+| Modules/Components |   Budget(RM)   |    Schedule                        |     Responsibility    |
+|--------------------|----------------|------------------------------------|-----------------------|
+| Acquisition        |  5,272,630.00  | 9 November 2020 - 29 December 2020 |                       |
+|                    |                |                                    |                       |
+| Design             |    391,110.00  | 30 December 2020 - 28 January 2021 |   System Design       |
+|                    |                |                                    |   Data Collection     |
+|                    |                |                                    |                       |
+| Restoration        |  1,328,972.00  |  29 January 2021 - 30 March 2021   |  Camera Installation  |
+|                    |                |                                    |  System Installation  |
+|                    |                |                                    |      Maintenance      |
 
 
 ## C.  IMPLEMENTING THE PROJECT PLAN 
@@ -68,18 +71,22 @@
 
  :open_file_folder:   **Tasks and Estimated Costs**
 
-| Task | Estimated Costs | Notes |
-|------|-----------------|-------|
-|Furniture|$1,000| |
-|Decorations|$250|*wall art*|
-|**TOTAL**|**$1,250**|*estimated*|
+|    Task   | Estimated Costs |    Notes  |
+|-----------|-----------------|-----------|
+| Furniture |      $1,000     |           |
+|Decorations|       $250      |*wall art* |
+| **TOTAL** |    **$1,250**   |*estimated*|
 
 
  :calendar:   **Milestone Chart**
 
-| Milestone | Scheduled Completion | Actual Completion |
-|-----------|----------------------|-------------------|
-|           |                      |                   |
+|     Milestone    | Scheduled Completion | Actual Completion |
+|------------------|----------------------|-------------------|
+|     Planning     |   28 November 2020   |                   |
+|     Analysis     |   30 November 2020   |                   | 
+|      Design      |   29 January 2021    |                   |
+|  Implementation  |      |                   |
+|   Maintainance   |                      |                   |
 
 
 ## D.  EXECUTING THE PROJECT

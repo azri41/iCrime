@@ -35,7 +35,7 @@
 
 ![Work Breakdown Structure](https://github.com/azri41/iCrime/blob/main/images/WBS.PNG)
 
-<div align="center">Figure 2: Work Breakdown Structure</div>
+<div align="center"><em>Figure 2: Work Breakdown Structure</em></div>
 
 <br><br>
  :chart: **Risk Identification Chart** (Quality, Cost, Time)
@@ -113,10 +113,10 @@
 ## E.  COMPLETING THE PROJECT
 
 **Closing Checklist**
-- [ ]   i. [INSERT Acceptance/Project Completion Form Sign-Off (insert FORM)]
-- [ ]   ii. [INSERT Lessons Learned Document ![iCrimeProjeClosing](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/Project%20Closing%20iCrime.pdf)]
-- [ ]   iii. [INSERT Final Project Report (insert REPORT))]
-- [ ]   iv. [Close Contract (insert CONTRACT))]
+- [ ]   i. [INSERT Acceptance/Project Completion Form Sign-Off ![SignOff](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/Project%20Closing%20iCrime.pdf)]
+- [ ]   ii. [INSERT Lessons Learned Document ![LessonLearned](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)]
+- [ ]   iii. [INSERT Final Project Report ![FinalProjectReport](https://github.com/azri41/iCrime/blob/main/README.md)]
+- [ ]   iv. [Close Contract ![CloseContract](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)]
 
 
 ## F.   PROJECT PRESENTATION 

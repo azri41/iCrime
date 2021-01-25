@@ -29,7 +29,13 @@
 <!-- - [insert Work Breakdown Structure (WBS) for each of the given tasks with Gantt Chart (Screen capture & attached source file, excel or MS Project) for Scope and Plan Project Management. The Gantt Chart includes activities, milestones, summary tasks, Durations of tasks and, etc] -->
 
 ![Gantt Chart](https://github.com/azri41/iCrime/blob/main/images/gantt_chart.PNG)
+
+Figure 1: Gantt Chart
+
+
 ![Work Breakdown Structure](https://github.com/azri41/iCrime/blob/main/images/WBS.PNG)
+
+Figure 2: Work Breakdown Structure
 
 
  :chart: **Risk Identification Chart** (Quality, Cost, Time)

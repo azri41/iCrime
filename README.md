@@ -40,7 +40,7 @@
 
  :chart: **Risk Identification Chart** (Quality, Cost, Time)
 
-| <span style="color: red;">Control Element</span> | What is likely to go wrong?                  | How and when will I know?             | What will I do about it?                                  |
+| ```html <span style="color: red;">Control Element</span>``` | What is likely to go wrong?                  | How and when will I know?             | What will I do about it?                                  |
 |-----------------|----------------------------------------------|---------------------------------------|-----------------------------------------------------------|
 | Quality         | Faces could not detect accurately.           | Cameras detect wrong criminals faces. | Modify the algorithm like threshold to detect the faces.  |
 | Cost            | Overexpensive equipments such as cameras.    | Funds are spend to hardware only.     | Find new suppliers to cover the costs.                    |
@@ -55,11 +55,11 @@
 
  :pushpin:  **Project Planning Summary:**
 
-| Modules/Components        |   Budget (RM)  |    Schedule                        |       Responsibility       |
+| Modules/Components        | Budget (RM)    | Schedule                           | Responsibility             |
 |---------------------------|----------------|------------------------------------|----------------------------|
 | Criminal Database         |    500,000.00  | 9 November 2020 - 29 December 2020 |  Collect Data, Label Data  |
-| Criminal Face Recognition |  1,200,000.00  | 30 December 2020 - 28 January 2021 |  Train model, Test model   |
-| Map Tracking              |    120,000.00  | 29 January 2021 - 30 March 2021    |  Connect system with GPS   |
+| Criminal Face Recognition |  1,200,000.00  | 30 December 2020 - 28 January 2021 |   Train model, Test model  |
+| Map Tracking              |    120,000.00  |    29 January 2021 - 30 March 2021 |   Connect system with GPS  |
 
 
 

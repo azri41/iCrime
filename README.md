@@ -1,8 +1,8 @@
 # PROJECT OVERVIEW 
 
-## A. DEFINING THE PROJECT 
+## A. DEFINING THE PROJECT
 
-- [ ] **Project Summary**
+- :fire: **Project Summary**
 
 **Customer:** Polis Diraja Malaysia (PDRM) (Mock)
 
@@ -15,53 +15,58 @@
 - Muhammad Haziq Izzuddin Bin Junaidy
 
 
-- [ ] **Objectives:**
+- :grin: **Objectives:**
 
-- Break out the project goal into more specific objectives
-- [insert]
-- [insert]
-- [insert]
+- Identify criminals by using face recognition. 
+- Reduce workload for police.
+- Improve law enforcement.
 
 
 
 ##  B. PLANNING THE PROJECT 
 
-- [ ]  **Project Management Life-Cycle**
-- [insert Work Breakdown Structure (WBS) for each of the given tasks with Gantt Chart (Screen capture & attached source file, excel or MS Project) for Scope and Plan Project Management. The Gantt Chart includes activities, milestones, summary tasks, Durations of tasks and, etc]
+- :sweat_smile:  **Project Management Life-Cycle**
+<!-- - [insert Work Breakdown Structure (WBS) for each of the given tasks with Gantt Chart (Screen capture & attached source file, excel or MS Project) for Scope and Plan Project Management. The Gantt Chart includes activities, milestones, summary tasks, Durations of tasks and, etc] -->
 
-[![Gantt Chart](https://www.projectmanager.com/wp-content/uploads/2018/05/online-project-planning-software.jpg)
-
-
-- [ ] **Risk Identification Chart** (Quality, Cost, Time)
-
-| Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
-|-----------------|-----------------------------|---------------------------|--------------------------|
-| Quality         |                             |                           |                          |
-| Cost            |                             |                           |                          |
-| Time            |                             |                           |                          |
+![Gantt Chart](https://github.com/azri41/iCrime/images/gantt_chart.PNG)
+![Work Breakdown Structure](https://github.com/azri41/iCrime/images/WBS.PNG)
 
 
-- [ ]  **Responsibility Assignment Matrices (RAM) :**
+- :chart: **Risk Identification Chart** (Quality, Cost, Time)
+
+| Control Element | What is likely to go wrong?                  | How and when will I know? | What will I do about it? |
+|-----------------|----------------------------------------------|---------------------------|--------------------------|
+| Quality         | Faces could not detect accurately.           |                           |                          |
+| Cost            | Overexpensive equipments such as cameras.    |                           |                          |
+| Time            | Time consuming to collect and train the data.|                           |                          |
+
+
+- :green_book:  **Responsibility Assignment Matrices (RAM) :**
 - [insert RAM Table include Resource Responsibility, Task/Deliverable (attach a Screen capture of the table).]
 - [Insert List for each of the members for their Roles and Responsibilities).]
 	
 
-- [ ]  **Project Planning Summary:**
+- :pushpin:  **Project Planning Summary:**
 
-| Modules/Components | Budget | Schedule | Responsibility |
-|--------------------|--------|----------|----------------|
-|                    |        |          |                |
-
+| Modules/Components |   Budget(RM)   |    Schedule      |    Responsibility    |
+|--------------------|----------------|------------------|----------------------|
+| Acquisition        |  5,272,630.00  |                  |                      |
+|                    |                |                  |                      |
+| Design             |    391,110.00  |                  |                      |
+| Restoration        |  1,328,972.00  |                  | Installation         |
+|                    |                |                  |                      |
+|                    |                |                  |                      |
+|                    |                |                  |                      |
 
 ## C.  IMPLEMENTING THE PROJECT PLAN 
 
-- [ ]  **Deliverables:**
+- :mailbox_with_mail:  **Deliverables:**
 
 - [insert] Define specific completed deliverables by the end of the project.
 - [insert]
 - [insert]
 
-- [ ]   **Tasks and Estimated Costs**
+- :open_file_folder:   **Tasks and Estimated Costs**
 
 | Task | Estimated Costs | Notes |
 |------|-----------------|-------|
@@ -70,7 +75,7 @@
 |**TOTAL**|**$1,250**|*estimated*|
 
 
-- [ ]   **Milestone Chart**
+- :calendar:   **Milestone Chart**
 
 | Milestone | Scheduled Completion | Actual Completion |
 |-----------|----------------------|-------------------|

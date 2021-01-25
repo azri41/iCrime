@@ -113,10 +113,10 @@
 ## E.  COMPLETING THE PROJECT
 
 **Closing Checklist**
-- [ ]   i. [INSERT Acceptance/Project Completion Form Sign-Off ![SignOff](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/Project%20Closing%20iCrime.pdf)]
-- [ ]   ii. [INSERT Lessons Learned Document ![LessonLearned](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)]
-- [ ]   iii. [INSERT Final Project Report ![FinalProjectReport](https://github.com/azri41/iCrime/blob/main/README.md)]
-- [ ]   iv. [Close Contract ![CloseContract](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)]
+:heavy_check_mark:   i. [SignOff](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/Project%20Closing%20iCrime.pdf)
+:heavy_check_mark:   ii. [LessonLearned](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)
+:heavy_check_mark:   iii. [FinalProjectReport](https://github.com/azri41/iCrime/blob/main/README.md)
+:heavy_check_mark:   iv.  [CloseContract](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)
 
 
 ## F.   PROJECT PRESENTATION 

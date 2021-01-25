@@ -78,7 +78,7 @@
 
 |         Task       |   Estimated Costs(RM)   |          Notes        |
 |--------------------|-------------------------|-----------------------|
-| Acquisition        |      5,272,630.00       |                       |
+| Acquisition        |      5,272,630.00       |           -           |
 | Design             |       391,110.00        |  System Design, Data Collection        |
 | Restoration        |      1,328,972.00       |  Camera Installation, System Installation, Maintenance          |
 
@@ -96,7 +96,7 @@
 
 ## D.  EXECUTING THE PROJECT
 
-**Project Design and coding**
+:bulb: **Project Design and coding**
 - [ ]   [INSERT your Design - Diagrams]
 
 ![Coding](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/python-project-real-time-face-mask-detection.jpg)
@@ -106,13 +106,13 @@
 ![Coding](https://codinglab.jp/wp-content/uploads/2018/05/python.png)
 
 
-**Project Result**
+:stars: **Project Result**
 - [ ]   [INSERT your output or result from your project]
 
 
 ## E.  COMPLETING THE PROJECT
 
-**Closing Checklist**
+:clipboard: **Closing Checklist**
 <br>
 :heavy_check_mark:   [Sign Off (Page 4)](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/Project%20Closing%20iCrime.pdf)
 <br>

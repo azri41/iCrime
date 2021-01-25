@@ -40,7 +40,7 @@
 
  :chart: **Risk Identification Chart** (Quality, Cost, Time)
 
-| https://placehold.it/150/ffffff/ff0000?text=Control_Element | What is likely to go wrong?                  | How and when will I know?             | What will I do about it?                                  |
+| ```diff + Control Element ``` | What is likely to go wrong?                  | How and when will I know?             | What will I do about it?                                  |
 |-----------------|----------------------------------------------|---------------------------------------|-----------------------------------------------------------|
 | Quality         | Faces could not detect accurately.           | Cameras detect wrong criminals faces. | Modify the algorithm like threshold to detect the faces.  |
 | Cost            | Overexpensive equipments such as cameras.    | Funds are spend to hardware only.     | Find new suppliers to cover the costs.                    |

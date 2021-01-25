@@ -30,8 +30,8 @@
 
 ![Gantt Chart](https://github.com/azri41/iCrime/blob/main/images/gantt_chart.PNG)
 
-<div align="center">Figure 1: Gantt Chart</div>
-
+<div  align="center"><em>Figure 1: Gantt Chart</em></div>
+<br><br>
 
 ![Work Breakdown Structure](https://github.com/azri41/iCrime/blob/main/images/WBS.PNG)
 
@@ -79,7 +79,7 @@
 |         Task       |   Estimated Costs(RM)   |          Notes        |
 |--------------------|-------------------------|-----------------------|
 | Acquisition        |      5,272,630.00       |                       |
-| Design             |       391,110.00        |  System Design,Data Collection        |
+| Design             |       391,110.00        |  System Design, Data Collection        |
 | Restoration        |      1,328,972.00       |  Camera Installation, System Installation, Maintenance          |
 
 

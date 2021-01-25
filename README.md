@@ -1,49 +1,111 @@
-<br />
-<p align="center">
-  <a href="https://github.com/Skyman1208/Test-iCrime">
-    <img src="logo.PNG" alt="Logo" width="380" height="150">
-  </a>
-  <p align="center">
-    Beyond the sky
-    <br />
-    <a href="https://github.com/Skyman1208/Test-iCrime"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-  </p>
-</p>
+# PROJECT OVERVIEW 
+
+## A. DEFINING THE PROJECT 
+
+- [ ] **Project Summary**
+
+**Customer:** Polis Diraja Malaysia (PDRM) (Mock)
+
+**Project name:** iCrime
+
+**Team Members:** 
+- Muhammad Azri Bin Azmi
+- Aiman Iskandar Bin Mohd Zaidi
+- Ariff Rahimin Bin Mohamed Norazman
+- Muhammad Haziq Izzuddin Bin Junaidy
 
 
-## CONTENTS
+- [ ] **Objectives:**
 
-* [ABOUT](#ABOUT)
-* [VISION & MSSION](#VISION-&-MSSION)
-* [BOARD OF DIRECTORS](#BOARD-OF-DIRECTORS)
+- Break out the project goal into more specific objectives
+- [insert]
+- [insert]
+- [insert]
 
 
-## ABOUT
-Arzoneficial Tech Inc. was incorporated on 15 September 2019.Arzoneficial Tech Inc. has more than 10 Billion dollar assets around the world. The company is located on a 50,000 sq ft of land in Durian Tunggal, Melaka which houses its R&D centre and production line facility. "Our team is running to convert our Malaysian technology to high-end technology. So that we can compete with others country in producing high quality products."
 
-## VISION & MSSION
+##  B. PLANNING THE PROJECT 
 
-### Vision
-1. Team work
-2. High quality products
+- [ ]  **Project Management Life-Cycle**
+- [insert Work Breakdown Structure (WBS) for each of the given tasks with Gantt Chart (Screen capture & attached source file, excel or MS Project) for Scope and Plan Project Management. The Gantt Chart includes activities, milestones, summary tasks, Durations of tasks and, etc]
 
-### Mission
-1. Malaysia Revolution Industry 4.0
-2. Bring high quality Malaysia products into a global markets
+[![Gantt Chart](https://www.projectmanager.com/wp-content/uploads/2018/05/online-project-planning-software.jpg)
 
-## BOARD OF DIRECTORS
-The structure, responsibilities, and powers given to a board of directors are determined by the bylaws of a company or organization. The bylaws generally determine how many board members there are, how the members are elected, and how frequently the board members meet. There’s not a set number or structuring for a board of directors; it depends largely on the company or organization, the industry in which the company or organization operates, and the shareholders.
 
-### Muhammad Azri
-(Chief Executive Officer)
+- [ ] **Risk Identification Chart** (Quality, Cost, Time)
 
-### Aiman Iskandar
-(Senior Vice President Corporate Development)
+| Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
+|-----------------|-----------------------------|---------------------------|--------------------------|
+| Quality         |                             |                           |                          |
+| Cost            |                             |                           |                          |
+| Time            |                             |                           |                          |
 
-### Ariff Rahimin
-(Chief Operations Officer)
 
-### Haziq Izzuddin
-(Chief Financial Officer)
+- [ ]  **Responsibility Assignment Matrices (RAM) :**
+- [insert RAM Table include Resource Responsibility, Task/Deliverable (attach a Screen capture of the table).]
+- [Insert List for each of the members for their Roles and Responsibilities).]
+	
+
+- [ ]  **Project Planning Summary:**
+
+| Modules/Components | Budget | Schedule | Responsibility |
+|--------------------|--------|----------|----------------|
+|                    |        |          |                |
+
+
+## C.  IMPLEMENTING THE PROJECT PLAN 
+
+- [ ]  **Deliverables:**
+
+- [insert] Define specific completed deliverables by the end of the project.
+- [insert]
+- [insert]
+
+- [ ]   **Tasks and Estimated Costs**
+
+| Task | Estimated Costs | Notes |
+|------|-----------------|-------|
+|Furniture|$1,000| |
+|Decorations|$250|*wall art*|
+|**TOTAL**|**$1,250**|*estimated*|
+
+
+- [ ]   **Milestone Chart**
+
+| Milestone | Scheduled Completion | Actual Completion |
+|-----------|----------------------|-------------------|
+|           |                      |                   |
+
+
+## D.  EXECUTING THE PROJECT
+
+**Project Design and coding**
+- [ ]   [INSERT your Design - Diagrams]
+
+![Coding](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/python-project-real-time-face-mask-detection.jpg)
+
+- [ ]   [INSERT your coding - screen capture of your coding]
+
+![Coding](https://codinglab.jp/wp-content/uploads/2018/05/python.png)
+
+
+**Project Result**
+- [ ]   [INSERT your output or result from your project]
+
+
+## E.  COMPLETING THE PROJECT
+
+**Closing Checklist**
+- [ ]   i. [INSERT Acceptance/Project Completion Form Sign-Off (insert FORM)]
+- [ ]   ii. [INSERT Lessons Learned Document (insert DOC)]
+- [ ]   iii. [INSERT Final Project Report (insert REPORT))]
+- [ ]   iv. [IClose Contract (insert CONTRACT))]
+
+
+## F.   PROJECT PRESENTATION 
+- [ ]  [Embed youtube video] or [insert your youtube video link like the example below]
+
+[![Ideaku](https://img.youtube.com/vi/1ByNYN1LQAI/0.jpg)](http://www.youtube.com/watch?v=1ByNYN1LQAI "Ideaku")
+
+
+

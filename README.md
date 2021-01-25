@@ -37,10 +37,10 @@
 
 <div align="center">Figure 2: Work Breakdown Structure</div>
 
-
+<br><br>
  :chart: **Risk Identification Chart** (Quality, Cost, Time)
 
-| <div style="color:green">Control Element</div> | What is likely to go wrong?                  | How and when will I know?             | What will I do about it?                                  |
+| <div class="text-green">Control Element</div> | What is likely to go wrong?                  | How and when will I know?             | What will I do about it?                                  |
 |-----------------|----------------------------------------------|---------------------------------------|-----------------------------------------------------------|
 | Quality         | Faces could not detect accurately.           | Cameras detect wrong criminals faces. | Modify the algorithm like threshold to detect the faces.  |
 | Cost            | Overexpensive equipments such as cameras.    | Funds are spend to hardware only.     | Find new suppliers to cover the costs.                    |
@@ -117,7 +117,7 @@
 
 **Closing Checklist**
 - [ ]   i. [INSERT Acceptance/Project Completion Form Sign-Off (insert FORM)]
-- [ ]   ii. [INSERT Lessons Learned Document (https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/Project%20Closing%20iCrime.pdf)]
+- [ ]   ii. [INSERT Lessons Learned Document ![iCrimeProjectClosing](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/Project%20Closing%20iCrime.pdf)]
 - [ ]   iii. [INSERT Final Project Report (insert REPORT))]
 - [ ]   iv. [Close Contract (insert CONTRACT))]
 

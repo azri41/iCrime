@@ -2,7 +2,7 @@
 
 ## A. DEFINING THE PROJECT
 
-- :fire: **Project Summary**
+:fire: **Project Summary**
 
 **Customer:** Polis Diraja Malaysia (PDRM) (Mock)
 
@@ -15,7 +15,7 @@
 - Muhammad Haziq Izzuddin Bin Junaidy
 
 
-- :grin: **Objectives:**
+:grin: **Objectives:**
 
 - Identify criminals by using face recognition. 
 - Reduce workload for police.
@@ -25,14 +25,14 @@
 
 ##  B. PLANNING THE PROJECT 
 
-- :computer:  **Project Management Life-Cycle**
+ :computer:  **Project Management Life-Cycle**
 <!-- - [insert Work Breakdown Structure (WBS) for each of the given tasks with Gantt Chart (Screen capture & attached source file, excel or MS Project) for Scope and Plan Project Management. The Gantt Chart includes activities, milestones, summary tasks, Durations of tasks and, etc] -->
 
 ![Gantt Chart](https://github.com/azri41/iCrime/blob/main/images/gantt_chart.PNG)
 ![Work Breakdown Structure](https://github.com/azri41/iCrime/blob/main/images/WBS.PNG)
 
 
-- :chart: **Risk Identification Chart** (Quality, Cost, Time)
+ :chart: **Risk Identification Chart** (Quality, Cost, Time)
 
 | Control Element | What is likely to go wrong?                  | How and when will I know? | What will I do about it? |
 |-----------------|----------------------------------------------|---------------------------|--------------------------|
@@ -41,32 +41,32 @@
 | Time            | Time consuming to collect and train the data.|                           |                          |
 
 
-- :green_book:  **Responsibility Assignment Matrices (RAM) :**
+ :green_book:  **Responsibility Assignment Matrices (RAM) :**
 - [insert RAM Table include Resource Responsibility, Task/Deliverable (attach a Screen capture of the table).]
 - [Insert List for each of the members for their Roles and Responsibilities).]
 	
 
-- :pushpin:  **Project Planning Summary:**
+ :pushpin:  **Project Planning Summary:**
 
 | Modules/Components |   Budget(RM)   |    Schedule      |    Responsibility    |
 |--------------------|----------------|------------------|----------------------|
 | Acquisition        |  5,272,630.00  |                  |                      |
 |                    |                |                  |                      |
 | Design             |    391,110.00  |                  |                      |
+|                    |                |                  |                      |
 | Restoration        |  1,328,972.00  |                  | Installation         |
 |                    |                |                  |                      |
-|                    |                |                  |                      |
-|                    |                |                  |                      |
+
 
 ## C.  IMPLEMENTING THE PROJECT PLAN 
 
-- :mailbox_with_mail:  **Deliverables:**
+ :mailbox_with_mail:  **Deliverables:**
 
 - [insert] Define specific completed deliverables by the end of the project.
 - [insert]
 - [insert]
 
-- :open_file_folder:   **Tasks and Estimated Costs**
+ :open_file_folder:   **Tasks and Estimated Costs**
 
 | Task | Estimated Costs | Notes |
 |------|-----------------|-------|
@@ -75,7 +75,7 @@
 |**TOTAL**|**$1,250**|*estimated*|
 
 
-- :calendar:   **Milestone Chart**
+ :calendar:   **Milestone Chart**
 
 | Milestone | Scheduled Completion | Actual Completion |
 |-----------|----------------------|-------------------|

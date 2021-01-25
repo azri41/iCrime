@@ -30,17 +30,17 @@
 
 ![Gantt Chart](https://github.com/azri41/iCrime/blob/main/images/gantt_chart.PNG)
 
-Figure 1: Gantt Chart
+->Figure 1: Gantt Chart<-
 
 
 ![Work Breakdown Structure](https://github.com/azri41/iCrime/blob/main/images/WBS.PNG)
 
-Figure 2: Work Breakdown Structure
+->Figure 2: Work Breakdown Structure<-
 
 
  :chart: **Risk Identification Chart** (Quality, Cost, Time)
 
-| Control Element | What is likely to go wrong?                  | How and when will I know?             | What will I do about it?                                  |
+| <span style="color: red;">Control Element</span> | What is likely to go wrong?                  | How and when will I know?             | What will I do about it?                                  |
 |-----------------|----------------------------------------------|---------------------------------------|-----------------------------------------------------------|
 | Quality         | Faces could not detect accurately.           | Cameras detect wrong criminals faces. | Modify the algorithm like threshold to detect the faces.  |
 | Cost            | Overexpensive equipments such as cameras.    | Funds are spend to hardware only.     | Find new suppliers to cover the costs.                    |
@@ -55,33 +55,41 @@ Figure 2: Work Breakdown Structure
 
  :pushpin:  **Project Planning Summary:**
 
-| Modules/Components        |   Budget(RM)   |    Schedule                        |     Responsibility    |
-|---------------------------|----------------|------------------------------------|-----------------------|
-| Criminal Database         |  5,272,630.00  | 9 November 2020 - 29 December 2020 |                       |
-|                           |                |                                    |                       |
-| Criminal Face Recognition |    391,110.00  | 30 December 2020 - 28 January 2021 |  System Design        |
-|                           |                |                                    |  Data Collection      |
-|                           |                |                                    |                       |
-| Map Tracking              |  1,328,972.00  | 29 January 2021 - 30 March 2021    |  Camera Installation  |
-|                           |                |                                    |  System Installation  |
-|                           |                |                                    |  Maintenance          |
+| Modules/Components        |   Budget (RM)  |    Schedule                        |       Responsibility       |
+|---------------------------|----------------|------------------------------------|----------------------------|
+| Criminal Database         |    500,000.00  | 9 November 2020 - 29 December 2020 |  Collect Data, Label Data  |
+| Criminal Face Recognition |  1,200,000.00  | 30 December 2020 - 28 January 2021 |  Train model, Test model   |
+| Map Tracking              |    120,000.00  | 29 January 2021 - 30 March 2021    |  Connect system with GPS   |
+
 
 
 ## C.  IMPLEMENTING THE PROJECT PLAN 
 
  :mailbox_with_mail:  **Deliverables:**
 
-- [insert] Define specific completed deliverables by the end of the project.
-- [insert]
-- [insert]
+- Planning Deliverables
+- Analysis Deliverables
+- Design Deliverables
+- Implementation Deliverables
+- Maintenance Deliverables
 
  :open_file_folder:   **Tasks and Estimated Costs**
 
-|    Task   | Estimated Costs |    Notes  |
+<!-- |    Task   | Estimated Costs |    Notes  |
 |-----------|-----------------|-----------|
 | Furniture |      $1,000     |           |
 |Decorations|       $250      |*wall art* |
-| **TOTAL** |    **$1,250**   |*estimated*|
+| **TOTAL** |    **$1,250**   |*estimated*| -->
+
+
+|         Task       |   Estimated Costs(RM)   |          Notes        |
+|--------------------|-------------------------|-----------------------|
+| Acquisition        |      5,272,630.00       |                       |
+| Design             |       391,110.00        |  System Design        |
+|                    |                         |  Data Collection      |
+| Restoration        |      1,328,972.00       |  Camera Installation  |
+|                    |                         |  System Installation  |
+|                    |                         |  Maintenance          |
 
 
  :calendar:   **Milestone Chart**

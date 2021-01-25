@@ -114,13 +114,13 @@
 
 **Closing Checklist**
 <br>
-:heavy_check_mark:   [SignOff (Page 4)](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/Project%20Closing%20iCrime.pdf)
+:heavy_check_mark:   [Sign Off (Page 4)](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/Project%20Closing%20iCrime.pdf)
 <br>
-:heavy_check_mark:   [LessonLearned](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)
+:heavy_check_mark:   [Lesson Learned](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)
 <br>
-:heavy_check_mark:   [FinalProjectReport](https://github.com/azri41/iCrime/blob/main/README.md)
+:heavy_check_mark:   [Final Project Report](https://github.com/azri41/iCrime/blob/main/README.md)
 <br>
-:heavy_check_mark:   [CloseContract](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)
+:heavy_check_mark:   [Close Contract](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)
 <br>
 
 

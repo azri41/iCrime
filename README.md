@@ -94,7 +94,7 @@
 
 ![Coding](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/python-project-real-time-face-mask-detection.jpg)
 
-pip install -r reqirement.txt
+pip install -r requirement.txt
 
 - [ ] [INSERT your coding - screen capture of your coding]
 

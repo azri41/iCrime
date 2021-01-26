@@ -1,0 +1,9 @@
+facenet_pytorch==2.5.1
+torch==1.7.1+cu101
+torchvision==0.8.2+cu101
+imutils==0.5.3
+numpy==1.18.2
+pillow==8.1.0
+opencv-python==4.2.0.*
+matplotlib==3.2.1
+scipy==1.4.1

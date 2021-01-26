@@ -30,17 +30,17 @@
 
 ![Gantt Chart](https://github.com/azri41/iCrime/blob/main/images/gantt_chart.PNG)
 
-->Figure 1: Gantt Chart<-
-
+<div  align="center"><em>Figure 1: Gantt Chart</em></div>
+<br><br>
 
 ![Work Breakdown Structure](https://github.com/azri41/iCrime/blob/main/images/WBS.PNG)
 
-->Figure 2: Work Breakdown Structure<-
+<div align="center"><em>Figure 2: Work Breakdown Structure</em></div>
 
-
+<br><br>
  :chart: **Risk Identification Chart** (Quality, Cost, Time)
 
-| <span style="color: red;">Control Element</span> | What is likely to go wrong?                  | How and when will I know?             | What will I do about it?                                  |
+| Control Element | What is likely to go wrong?                  | How and when will I know?             | What will I do about it?                                  |
 |-----------------|----------------------------------------------|---------------------------------------|-----------------------------------------------------------|
 | Quality         | Faces could not detect accurately.           | Cameras detect wrong criminals faces. | Modify the algorithm like threshold to detect the faces.  |
 | Cost            | Overexpensive equipments such as cameras.    | Funds are spend to hardware only.     | Find new suppliers to cover the costs.                    |
@@ -55,11 +55,11 @@
 
  :pushpin:  **Project Planning Summary:**
 
-| Modules/Components        |   Budget (RM)  |    Schedule                        |       Responsibility       |
+| Modules/Components        | Budget (RM)    | Schedule                           | Responsibility             |
 |---------------------------|----------------|------------------------------------|----------------------------|
-| Criminal Database         |    500,000.00  | 9 November 2020 - 29 December 2020 |  Collect Data, Label Data  |
-| Criminal Face Recognition |  1,200,000.00  | 30 December 2020 - 28 January 2021 |  Train model, Test model   |
-| Map Tracking              |    120,000.00  | 29 January 2021 - 30 March 2021    |  Connect system with GPS   |
+| Criminal Database         |    500,000.00  | 30 December 2020 - 9 January 2021  | Collect Data, Label Data   |
+| Criminal Face Recognition |  1,200,000.00  | 17 January 2021 - 30 January 2021  | Train model, Test model    |
+| Map Tracking              |    120,000.00  | 10 January 2021 - 16 January 2021  | Connect system with GPS    |
 
 
 
@@ -75,21 +75,12 @@
 
  :open_file_folder:   **Tasks and Estimated Costs**
 
-<!-- |    Task   | Estimated Costs |    Notes  |
-|-----------|-----------------|-----------|
-| Furniture |      $1,000     |           |
-|Decorations|       $250      |*wall art* |
-| **TOTAL** |    **$1,250**   |*estimated*| -->
-
 
 |         Task       |   Estimated Costs(RM)   |          Notes        |
 |--------------------|-------------------------|-----------------------|
-| Acquisition        |      5,272,630.00       |                       |
-| Design             |       391,110.00        |  System Design        |
-|                    |                         |  Data Collection      |
-| Restoration        |      1,328,972.00       |  Camera Installation  |
-|                    |                         |  System Installation  |
-|                    |                         |  Maintenance          |
+| Acquisition        |      5,272,630.00       |           -           |
+| Design             |       391,110.00        |  System Design, Data Collection        |
+| Restoration        |      1,328,972.00       |  Camera Installation, System Installation, Maintenance          |
 
 
  :calendar:   **Milestone Chart**
@@ -105,7 +96,7 @@
 
 ## D.  EXECUTING THE PROJECT
 
-**Project Design and coding**
+:bulb: **Project Design and coding**
 - [ ]   [INSERT your Design - Diagrams]
 
 ![Coding](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/python-project-real-time-face-mask-detection.jpg)
@@ -115,23 +106,25 @@
 ![Coding](https://codinglab.jp/wp-content/uploads/2018/05/python.png)
 
 
-**Project Result**
+:stars: **Project Result**
 - [ ]   [INSERT your output or result from your project]
 
 
 ## E.  COMPLETING THE PROJECT
 
-**Closing Checklist**
-- [ ]   i. [INSERT Acceptance/Project Completion Form Sign-Off (insert FORM)]
-- [ ]   ii. [INSERT Lessons Learned Document (insert DOC)]
-- [ ]   iii. [INSERT Final Project Report (insert REPORT))]
-- [ ]   iv. [IClose Contract (insert CONTRACT))]
+:clipboard: **Closing Checklist**
+<br>
+:heavy_check_mark:   [Sign Off (Page 4)](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/Project%20Closing%20iCrime.pdf)
+<br>
+:heavy_check_mark:   [Lesson Learned](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)
+<br>
+:heavy_check_mark:   [Final Project Report](https://github.com/azri41/iCrime/blob/main/README.md)
+<br>
+:heavy_check_mark:   [Close Contract](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/iCrime%20Procurement%20Management%20Plan.pdf)
+<br>
 
 
 ## F.   PROJECT PRESENTATION 
 - [ ]  [Embed youtube video] or [insert your youtube video link like the example below]
 
 [![Ideaku](https://img.youtube.com/vi/1ByNYN1LQAI/0.jpg)](http://www.youtube.com/watch?v=1ByNYN1LQAI "Ideaku")
-
-
-

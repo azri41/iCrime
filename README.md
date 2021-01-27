@@ -178,6 +178,5 @@ Images with each label(their folder), are being extracted and trained with MTCNN
 
 ## F. PROJECT PRESENTATION
 
-- [ ] [Embed youtube video] or [insert your youtube video link like the example below]
 
-[![Ideaku](https://img.youtube.com/vi/1ByNYN1LQAI/0.jpg)](http://www.youtube.com/watch?v=1ByNYN1LQAI "Ideaku")
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/FhC62sJebs8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

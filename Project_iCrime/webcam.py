@@ -72,10 +72,11 @@ while True:
         name = input()
 
         # create directory if not exists
-        if not os.path.exists('photos/'+name):
-            os.mkdir('photos/'+name)
+        if not os.path.exists('E:/Tutorial/Python/iCrime/images/'+name):
+            os.mkdir('E:/Tutorial/Python/iCrime/images/'+name)
 
-        img_name = "photos/{}/{}.jpg".format(name, int(time.time()))
+        img_name = "E:/Tutorial/Python/iCrime/images/{}/{}.jpg".format(
+            name, int(time.time()))
         cv2.imwrite(img_name, original_frame)
         print(" saved: {}".format(img_name))
 

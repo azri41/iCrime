@@ -99,7 +99,7 @@
 
 **Face Recognition**
 <br>
-Command: pip install -r requirement.txt
+Command: <em>pip install -r requirement.txt</em>
 - Use this command to install the required packages.
 <br>
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Bounding%20Box.JPG"></div>

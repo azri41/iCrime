@@ -93,8 +93,8 @@
 | -------------- | -------------------- | ----------------- |
 | Planning       | 28 November 2020     | 27 November 2020  |
 | Analysis       | 30 December 2020     | 21 December 2020  |
-| Design         | 29 January 2021      | 30 January 2020   |
-| Implementation | 28 February 2021     | 26 February 2020  |
+| Design         | 29 January 2021      | 30 January 2021   |
+| Implementation | 28 February 2021     | 26 February 2021  |
 
 <br>
 

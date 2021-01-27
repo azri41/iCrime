@@ -98,6 +98,7 @@
 :grin: **CODING:**
 
 **Face Recognition**
+<br>
 Command: pip install -r requirement.txt
 - Use this command to install the required packages.
 <br>

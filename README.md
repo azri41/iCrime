@@ -49,7 +49,7 @@
 
 ![Responsibility Assignment Matrices (RAM)](https://github.com/azri41/iCrime/blob/main/images/RAM.PNG)
 
-<div align="center"><em>Figure 3: Rensposibility Assignment Matrices</em></div><br>
+<div align="center"><em>Figure 3: Responsibility Assignment Matrices</em></div><br>
 
 | Name                                | Roles                   |
 | ----------------------------------- | ----------------------- |
@@ -87,6 +87,7 @@
 | Restoration | 1,328,972.00        | Camera Installation, System Installation, Maintenance |
 
 <br>
+
 :calendar: **Milestone Chart**
 
 | Milestone      | Scheduled Completion | Actual Completion |
@@ -98,6 +99,7 @@
 | Maintainance   | 29 March 2021        | 1 April 2020      |
 
 <br>
+
 ## D. EXECUTING THE PROJECT
 
 :bulb: **Project Design and coding**
@@ -124,7 +126,7 @@ For every face that are detected, a box will be placed based on the face locatio
 <div align="center"><strong><em>Figure 6: Filter algorithm</em></strong></div>
 This algorithm filters raw images and select images that have face, and remove images that have no face or bad to detect face.<br><br>
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Training_Model.JPG"></div>
-<div align="center"><strong><em>Figure 7: Traning model</em></strong></div>
+<div align="center"><strong><em>Figure 7: Training model</em></strong></div>
 Images with each label(their folder), are being extracted and trained with MTCNN. <br><br>
 
 **PATH PLANNING**

@@ -95,12 +95,12 @@
 ![Flow](https://github.com/azri41/iCrime/blob/main/images/design.png)
 <div align="center"><em>Figure 3: Flow Diagram</em></div><br>
 
-pip install -r requirement.txt
-
 :grin: **CODING:**
 
-
 **Face Recognition**
+Command: pip install -r requirement.txt
+- Use this command to install the required packages.
+<br>
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Bounding%20Box.JPG"></div>
 <div align="center"><em>Figure 4: </em></div><br>
 

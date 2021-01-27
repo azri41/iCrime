@@ -132,6 +132,7 @@ Command: pip install -r requirement.txt
 
 
 :stars: **Project Result**
+- Our results contain of labeled face with its confidence level. Figure below shows our system results:
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Aiman_Capture.JPG"></div>
 <div align="center"><em>Figure 12: Aiman face result</em></div><br>

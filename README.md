@@ -93,7 +93,7 @@
 **Flow Diagram**
 
 ![Flow](https://github.com/azri41/iCrime/blob/main/images/design.png)
-<div align="center"><em>Figure 3: Flow Diagram</em></div><br>
+<div align="center"><em style="color: green">Figure 3: Flow Diagram</em></div><br>
 
 :grin: **CODING:**
 

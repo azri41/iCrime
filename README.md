@@ -13,7 +13,7 @@
 - Muhammad Azri Bin Azmi
 - Aiman Iskandar Bin Mohd Zaidi
 - Ariff Rahimin Bin Mohamed Norazman
-- Muhammad Haziq Izzuddin Bin Junaidy
+- Muhammad Haziq Izzuddin Bin Mohd Junaidy
 
 :grin: **Objectives:**
 
@@ -51,12 +51,12 @@
 
 <div align="center"><em>Figure 3: Responsibility Assignment Matrices</em></div><br>
 
-| Name                                | Roles                   |
-| ----------------------------------- | ----------------------- |
-| Muhammad Azri Bin Azmi              | Project Manager         |
-| Aiman Iskandar Bin Mohd Zaidi       | Design Technician       |
-| Ariff Rahimin Bin Mohamed Norazman  | Lead Engineer           |
-| Muhammad Haziq Izzuddin Bin Junaidy | Senior Project Director |
+| Name                                     | Roles                   |
+| ---------------------------------------- | ----------------------- |
+| Muhammad Azri Bin Azmi                   | Project Manager         |
+| Aiman Iskandar Bin Mohd Zaidi            | Design Technician       |
+| Ariff Rahimin Bin Mohamed Norazman       | Lead Engineer           |
+| Muhammad Haziq Izzuddin Bin Mohd Junaidy | Senior Project Director |
 
 <br>
 
@@ -76,7 +76,6 @@
 - Analysis Deliverables
 - Design Deliverables
 - Implementation Deliverables
-- Maintenance Deliverables
 
 :open_file_folder: **Tasks and Estimated Costs**
 
@@ -96,7 +95,6 @@
 | Analysis       | 30 December 2020     | 21 December 2020  |
 | Design         | 29 January 2021      | 30 January 2020   |
 | Implementation | 28 February 2021     | 26 February 2020  |
-| Maintainance   | 29 March 2021        | 1 April 2020      |
 
 <br>
 

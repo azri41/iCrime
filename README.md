@@ -107,13 +107,13 @@ pip install -r requirement.txt
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/main.PNG"></div>
 <div align="center"><em>Figure 3: Main Coding For Path Searching</em></div>
 
-<div align="center">![CodingMaze](https://github.com/azri41/iCrime/blob/main/images/maze.PNG)</div>
+<div align="center"><img scr="https://github.com/azri41/iCrime/blob/main/images/maze.PNG"></div>
 <div align="center"><em>Figure 4: Map</em></div>
 
-<div align="center">![CodingFindeEnd](https://github.com/azri41/iCrime/blob/main/images/findend.PNG)</div>
+<div align="center"><img scr="https://github.com/azri41/iCrime/blob/main/images/findend.PNG"></div>
 <div align="center"><em>Figure 5: Path Planning Algorithm: Breadth First Search</em></div>
 
-<div align="center">![CodingResult](https://github.com/azri41/iCrime/blob/main/images/result.PNG)</div>
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/result.PNG"></div>
 <div align="center"><em>Figure 6: Path Planning Result</em></div>
 
 

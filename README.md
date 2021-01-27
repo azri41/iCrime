@@ -132,16 +132,16 @@ pip install -r requirement.txt
 
 :stars: **Project Result**
 
-<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Aiman_Capture.PNG"></div>
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Aiman_Capture.JPG"></div>
 <div align="center"><em>Figure 12: Aiman face result</em></div><br>
 
-<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Ariff_Capture.PNG"></div>
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Ariff_Capture.JPG"></div>
 <div align="center"><em>Figure 13: Ariff face result</em></div><br>
 
-<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Azri_Capture.PNG"></div>
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Azri_Capture.JPG"></div>
 <div align="center"><em>Figure 14: Azri face result</em></div><br>
 
-<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Izz_Capture.PNG"></div>
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Izz_Capture.JPG"></div>
 <div align="center"><em>Figure 15: Haziq face result</em></div><br>
 
 ## E. COMPLETING THE PROJECT

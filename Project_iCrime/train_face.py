@@ -30,11 +30,13 @@ name_list = []  # list of names corrospoing to cropped photos
 embedding_list = []
 
 for img, idx in loader:
+
     face, prob = mtcnn0(img, return_prob=True)
     if face is not None and prob > 0.92:
         emb = resnet(face.unsqueeze(0))
         embedding_list.append(emb.detach())
         name_list.append(idx_to_class[idx])
+        print(f'loading image with probability of {prob} into model')
 
 # save data
 data = [embedding_list, name_list]

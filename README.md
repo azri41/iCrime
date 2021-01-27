@@ -123,13 +123,15 @@ Command: <em>pip install -r requirement.txt</em>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/maze.PNG"></div>
 <div align="center"><em>Figure 9: Map</em></div><br>
+- The map is hard coding in python. This is the example of maze that have 9x9 dimension.<br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/findend.PNG"></div>
 <div align="center"><em>Figure 10: Path Planning Algorithm: Breadth First Search</em></div><br>
+- 
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/result.PNG"></div>
 <div align="center"><em>Figure 11: Path Planning Result</em></div><br>
-
+- The red color plus symbol shows the path to criminal and white hash symbol shows the building
 
 :stars: **Project Result**
 - Our results contain of labeled face with its confidence level. Figure below shows our system results:

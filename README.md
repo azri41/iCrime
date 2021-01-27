@@ -93,45 +93,56 @@
 **Flow Diagram**
 
 ![Flow](https://github.com/azri41/iCrime/blob/main/images/design.png)
+<div align="center"><em>Figure 3: Flow Diagram</em></div><br>
 
 pip install -r requirement.txt
 
 :grin: **CODING:**
 
-- [ ] [INSERT your coding - screen capture of your coding]
+
 **Face Recognition**
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Bounding%20Box.JPG"></div>
-<div align="center"><em>Figure 3: Main Coding For Path Searching</em></div><br>
+<div align="center"><em>Figure 4: </em></div><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Filter_Algo.JPG"></div>
-<div align="center"><em>Figure 3: Main Coding For Path Searching</em></div><br>
+<div align="center"><em>Figure 5: </em></div><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Training_Model.JPG"></div>
-<div align="center"><em>Figure 3: Main Coding For Path Searching</em></div><br>
+<div align="center"><em>Figure 6:</em></div><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Main%20Detection.PNG"></div>
-<div align="center"><em>Figure 3: Main Coding For Path Searching</em></div><br>
+<div align="center"><em>Figure 7: </em></div><br>
 
 **PATH PLANNING**
 - After camera can recognize the criminal face, this algorithm will execute to search the shortest path from police station to criminal(camera)
 - In this project, we use Breadth First Search algorithm for path searching
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/main.PNG"></div>
-<div align="center"><em>Figure 3: Main Coding For Path Searching</em></div><br>
+<div align="center"><em>Figure 8: Main Coding For Path Searching</em></div><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/maze.PNG"></div>
-<div align="center"><em>Figure 4: Map</em></div><br>
+<div align="center"><em>Figure 9: Map</em></div><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/findend.PNG"></div>
-<div align="center"><em>Figure 5: Path Planning Algorithm: Breadth First Search</em></div><br>
+<div align="center"><em>Figure 10: Path Planning Algorithm: Breadth First Search</em></div><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/result.PNG"></div>
-<div align="center"><em>Figure 6: Path Planning Result</em></div><br>
+<div align="center"><em>Figure 11: Path Planning Result</em></div><br>
 
 
 :stars: **Project Result**
 
-- [ ] [INSERT your output or result from your project]
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Aiman_Capture.PNG"></div>
+<div align="center"><em>Figure 12: Aiman face result</em></div><br>
+
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Ariff_Capture.PNG"></div>
+<div align="center"><em>Figure 13: Ariff face result</em></div><br>
+
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Azri_Capture.PNG"></div>
+<div align="center"><em>Figure 14: Azri face result</em></div><br>
+
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Izz_Capture.PNG"></div>
+<div align="center"><em>Figure 15: Haziq face result</em></div><br>
 
 ## E. COMPLETING THE PROJECT
 

@@ -104,7 +104,7 @@ pip install -r requirement.txt
 - After camera can recognize the criminal face, this algorithm will execute to search the shortest path from police station to criminal(camera)
 - In this project, we use Breadth First Search algorithm for path searching
 
-<div align="center">![CodingMain](https://github.com/azri41/iCrime/blob/main/images/main.PNG)</div>
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/main.PNG"></div>
 <div align="center"><em>Figure 3: Main Coding For Path Searching</em></div>
 
 <div align="center">![CodingMaze](https://github.com/azri41/iCrime/blob/main/images/maze.PNG)</div>

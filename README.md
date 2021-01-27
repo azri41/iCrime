@@ -47,9 +47,17 @@
 
 :green_book: **Responsibility Assignment Matrices (RAM) :**
 
-- [insert RAM Table include Resource Responsibility, Task/Deliverable (attach a Screen capture of the table).]
-- [Insert List for each of the members for their Roles and Responsibilities).]
+![Responsibility Assignment Matrices (RAM)](https://github.com/azri41/iCrime/blob/main/images/RAM.PNG)
 
+<div align="center"><em style="color: green;">Figure 3: Flow Diagram</em></div><br>
+<br>
+| Name                      |  Roles  |
+| ------------------------- | ------------ |
+| Muhammad Azri Bin Azmi        | Project Manager   |
+| Aiman Iskandar Bin Mohd Zaidi | Design Technician |
+| Ariff Rahimin Bin Mohamed Norazman | Lead Engineer   |
+|Muhammad Haziq Izzuddin Bin Junaidy| Senior Project Director|
+<br>
 :pushpin: **Project Planning Summary:**
 
 | Modules/Components        | Budget (RM)  | Schedule                          | Responsibility           |
@@ -94,7 +102,7 @@
 
 ![Flow](https://github.com/azri41/iCrime/blob/main/images/design.png)
 
-<div align="center"><em style="color: green;">Figure 3: Flow Diagram</em></div><br>
+<div align="center"><em style="color: green;">Figure 4: Flow Diagram</em></div><br>
 
 :grin: **CODING:**
 
@@ -105,14 +113,14 @@ Command: <em>pip install -r requirement.txt</em>
 - Use this command to install the required packages.
 <br>
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Bounding%20Box.JPG"></div>
-<div align="center"><strong><em>Figure 4: </em></strong></div>
+<div align="center"><strong><em>Figure 5: </em></strong></div>
 For every face that are detected, a box will be placed based on the face locations. It will crop the face, and apply the model that we train, to recognize the face.<br><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Filter_Algo.JPG"></div>
-<div align="center"><strong><em>Figure 5: </em></strong></div>
+<div align="center"><strong><em>Figure 6: </em></strong></div>
 This algorithm filters raw images and select images that have face, and remove images that have no face or bad to detect face.<br><br>
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Training_Model.JPG"></div>
-<div align="center"><strong><em>Figure 6:</em></strong></div>
+<div align="center"><strong><em>Figure 7:</em></strong></div>
 Images with each label(their folder), are being extracted and trained with MTCNN. <br><br>
 
 **PATH PLANNING**
@@ -121,18 +129,18 @@ Images with each label(their folder), are being extracted and trained with MTCNN
 - In this project, we use Breadth First Search algorithm for path searching
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/main.PNG"></div>
-<div align="center"><strong><em>Figure 8: Main Coding For Path Searching</em></strong></div>
+<div align="center"><strong><em>Figure 9: Main Coding For Path Searching</em></strong></div>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/maze.PNG"></div>
-<div align="center"><strong><em>Figure 9: Map</em></strong></div>
+<div align="center"><strong><em>Figure 10: Map</em></strong></div>
  The map is hard coding in python. This is the example of maze that have 9x9 dimension.<br><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/findend.PNG"></div>
-<div align="center"><strong><em>Figure 10: Path Planning Algorithm: Breadth First Search</em></strong></div>
+<div align="center"><strong><em>Figure 11: Path Planning Algorithm: Breadth First Search</em></strong></div>
  It will find the shortest path between the starting point and any other reachable node.<br><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/result.PNG"></div>
-<div align="center"><strong><em>Figure 11: Path Planning Result</em></strong></div>
+<div align="center"><strong><em>Figure 12: Path Planning Result</em></strong></div>
  The red color plus symbol shows the path to criminal and white hash symbol shows the building<br><br>
 
 :stars: **Project Result**
@@ -140,16 +148,16 @@ Images with each label(their folder), are being extracted and trained with MTCNN
 - Our results contain of labeled face with its confidence level. Figure below shows our system results:
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Aiman_Capture.JPG"></div>
-<div align="center"><em>Figure 12: Aiman face result</em></div><br>
+<div align="center"><em>Figure 13: Aiman face result</em></div><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Ariff_Capture.JPG"></div>
-<div align="center"><em>Figure 13: Ariff face result</em></div><br>
+<div align="center"><em>Figure 14: Ariff face result</em></div><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Azri_Capture.JPG"></div>
-<div align="center"><em>Figure 14: Azri face result</em></div><br>
+<div align="center"><em>Figure 15: Azri face result</em></div><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Izz_Capture.JPG"></div>
-<div align="center"><em>Figure 15: Haziq face result</em></div><br>
+<div align="center"><em>Figure 16: Haziq face result</em></div><br>
 
 ## E. COMPLETING THE PROJECT
 

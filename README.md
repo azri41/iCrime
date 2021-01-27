@@ -178,5 +178,6 @@ Images with each label(their folder), are being extracted and trained with MTCNN
 
 ## F. PROJECT PRESENTATION
 
+:movie_camera: **Presentation Video**
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/FhC62sJebs8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![iCrime](https://i9.ytimg.com/vi/FhC62sJebs8/mq1.jpg?sqp=CKC-xYAG&rs=AOn4CLDt-1cjbnYwkmrOzVW2VjsndCVKTw)](https://youtu.be/FhC62sJebs8 "iCrime")

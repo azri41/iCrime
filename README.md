@@ -106,17 +106,14 @@ Command: <em>pip install -r requirement.txt</em>
 <br>
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Bounding%20Box.JPG"></div>
 <div align="center"><em>Figure 4: </em></div><br>
-for every face that are detected, a box will be placed based on the face locations. It will crop the face, and apply the model that we train, to recognize the face.<br>
+For every face that are detected, a box will be placed based on the face locations. It will crop the face, and apply the model that we train, to recognize the face.<br><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Filter_Algo.JPG"></div>
 <div align="center"><em>Figure 5: </em></div><br>
-this algorithm filters raw images and select images that have face, and remove images that have no face or bad to detect face.<br>
+This algorithm filters raw images and select images that have face, and remove images that have no face or bad to detect face.<br><br>
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Training_Model.JPG"></div>
 <div align="center"><em>Figure 6:</em></div><br>
-images with each label(their folder), are being
-
-<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Main%20Detection.PNG"></div>
-<div align="center"><em>Figure 7: </em></div><br>
+Images with each label(their folder), are being extracted and trained with MTCNN. <br><br>
 
 **PATH PLANNING**
 
@@ -128,15 +125,15 @@ images with each label(their folder), are being
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/maze.PNG"></div>
 <div align="center"><em>Figure 9: Map</em></div>
-- The map is hard coding in python. This is the example of maze that have 9x9 dimension.<br>
+- The map is hard coding in python. This is the example of maze that have 9x9 dimension.<br><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/findend.PNG"></div>
 <div align="center"><em>Figure 10: Path Planning Algorithm: Breadth First Search</em></div>
-- It will find the shortest path between the starting point and any other reachable node.<br>
+- It will find the shortest path between the starting point and any other reachable node.<br><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/result.PNG"></div>
 <div align="center"><em>Figure 11: Path Planning Result</em></div>
-- The red color plus symbol shows the path to criminal and white hash symbol shows the building<br>
+- The red color plus symbol shows the path to criminal and white hash symbol shows the building<br><br>
 
 :stars: **Project Result**
 

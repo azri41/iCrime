@@ -7,7 +7,7 @@ import cv2
 import time
 import os
 
-mtcnn0 = MTCNN(image_size=240, margin=0, keep_all=False,
+mtcnn0 = MTCNN(image_size=240, margin=0, keep_all=False,  # Multi-task Cascaded Convolutional Neural Networks
                min_face_size=40)  # keep_all=False
 mtcnn = MTCNN(image_size=240, margin=0, keep_all=True,
               min_face_size=40)  # keep_all=True

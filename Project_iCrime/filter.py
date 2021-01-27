@@ -1,23 +1,7 @@
 import face_recognition
 import os
 import cv2
-
-
 KNOWN_FACES_DIR = 'E:\Tutorial\Python\iCrime\Project_iCrime\known_faces'
-UNKNOWN_FACES_DIR = 'unknown_faces'
-TOLERANCE = 0.6
-FRAME_THICKNESS = 3
-FONT_THICKNESS = 2
-MODEL = 'cnn'
-
-
-def name_to_color(name):
-    # Take 3 first letters, tolower()
-    # lowercased character ord() value rage is 97 to 122, substract 97, multiply by 8
-    color = [(ord(c.lower())-97)*8 for c in name[:3]]
-    return color
-
-
 print('Loading known faces...')
 known_faces = []
 known_names = []
@@ -36,10 +20,12 @@ for name in os.listdir(KNOWN_FACES_DIR):
         # Get 128-dimension face encoding
         # Always returns a list of found faces, for this purpose we take first face only (assuming one face per image as you can't be twice on one image)
         tuple_encoding = face_recognition.face_encodings(image)
+        # we check if there iis any face in the image
         if len(tuple_encoding) > 0:
             print(f'LOAD IMAGE IN THE TUPLE FOR FILTERATION = {filename}')
             encoding = (image)[0]
             print('LOAD SUCCESSFUL!')
+            # if there is no face, we remove it from the folder
         else:
             print(f'no faces found at {filename}')
             print(f'removing {filename}....')

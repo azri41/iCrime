@@ -49,15 +49,17 @@
 
 ![Responsibility Assignment Matrices (RAM)](https://github.com/azri41/iCrime/blob/main/images/RAM.PNG)
 
-<div align="center"><em style="color: green;">Figure 3: Flow Diagram</em></div><br>
+<div align="center"><em>Figure 3: Rensposibility Assignment Matrices</em></div><br>
+
+| Name                                | Roles                   |
+| ----------------------------------- | ----------------------- |
+| Muhammad Azri Bin Azmi              | Project Manager         |
+| Aiman Iskandar Bin Mohd Zaidi       | Design Technician       |
+| Ariff Rahimin Bin Mohamed Norazman  | Lead Engineer           |
+| Muhammad Haziq Izzuddin Bin Junaidy | Senior Project Director |
+
 <br>
-| Name                      |  Roles  |
-| ------------------------- | ------------ |
-| Muhammad Azri Bin Azmi        | Project Manager   |
-| Aiman Iskandar Bin Mohd Zaidi | Design Technician |
-| Ariff Rahimin Bin Mohamed Norazman | Lead Engineer   |
-|Muhammad Haziq Izzuddin Bin Junaidy| Senior Project Director|
-<br>
+
 :pushpin: **Project Planning Summary:**
 
 | Modules/Components        | Budget (RM)  | Schedule                          | Responsibility           |
@@ -84,6 +86,7 @@
 | Design      | 391,110.00          | System Design, Data Collection                        |
 | Restoration | 1,328,972.00        | Camera Installation, System Installation, Maintenance |
 
+<br>
 :calendar: **Milestone Chart**
 
 | Milestone      | Scheduled Completion | Actual Completion |
@@ -94,6 +97,7 @@
 | Implementation | 28 February 2021     | 26 February 2020  |
 | Maintainance   | 29 March 2021        | 1 April 2020      |
 
+<br>
 ## D. EXECUTING THE PROJECT
 
 :bulb: **Project Design and coding**
@@ -102,7 +106,7 @@
 
 ![Flow](https://github.com/azri41/iCrime/blob/main/images/design.png)
 
-<div align="center"><em style="color: green;">Figure 4: Flow Diagram</em></div><br>
+<div align="center"><em>Figure 4: Flow Diagram</em></div><br>
 
 :grin: **CODING:**
 
@@ -113,14 +117,14 @@ Command: <em>pip install -r requirement.txt</em>
 - Use this command to install the required packages.
 <br>
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Bounding%20Box.JPG"></div>
-<div align="center"><strong><em>Figure 5: </em></strong></div>
+<div align="center"><strong><em>Figure 5: Bounding Box</em></strong></div>
 For every face that are detected, a box will be placed based on the face locations. It will crop the face, and apply the model that we train, to recognize the face.<br><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Filter_Algo.JPG"></div>
-<div align="center"><strong><em>Figure 6: </em></strong></div>
+<div align="center"><strong><em>Figure 6: Filter algorithm</em></strong></div>
 This algorithm filters raw images and select images that have face, and remove images that have no face or bad to detect face.<br><br>
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Training_Model.JPG"></div>
-<div align="center"><strong><em>Figure 7:</em></strong></div>
+<div align="center"><strong><em>Figure 7: Traning model</em></strong></div>
 Images with each label(their folder), are being extracted and trained with MTCNN. <br><br>
 
 **PATH PLANNING**

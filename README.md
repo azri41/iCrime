@@ -90,9 +90,9 @@
 
 :bulb: **Project Design and coding**
 
-- [ ] [INSERT your Design - Diagrams]
+**Flow Diagram**
 
-![Coding](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/python-project-real-time-face-mask-detection.jpg)
+![Flow](https://github.com/azri41/iCrime/blob/main/images/design.png)
 
 pip install -r requirement.txt
 

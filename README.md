@@ -99,22 +99,34 @@ pip install -r requirement.txt
 :grin: **CODING:**
 
 - [ ] [INSERT your coding - screen capture of your coding]
+**Face Recognition**
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Bounding%20Box.JPG"></div>
+<div align="center"><em>Figure 3: Main Coding For Path Searching</em></div><br>
+
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Filter_Algo.JPG"></div>
+<div align="center"><em>Figure 3: Main Coding For Path Searching</em></div><br>
+
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Training_Model.JPG"></div>
+<div align="center"><em>Figure 3: Main Coding For Path Searching</em></div><br>
+
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Main%20Detection.PNG"></div>
+<div align="center"><em>Figure 3: Main Coding For Path Searching</em></div><br>
 
 **PATH PLANNING**
 - After camera can recognize the criminal face, this algorithm will execute to search the shortest path from police station to criminal(camera)
 - In this project, we use Breadth First Search algorithm for path searching
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/main.PNG"></div>
-<div align="center"><em>Figure 3: Main Coding For Path Searching</em></div>
+<div align="center"><em>Figure 3: Main Coding For Path Searching</em></div><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/maze.PNG"></div>
-<div align="center"><em>Figure 4: Map</em></div>
+<div align="center"><em>Figure 4: Map</em></div><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/findend.PNG"></div>
-<div align="center"><em>Figure 5: Path Planning Algorithm: Breadth First Search</em></div>
+<div align="center"><em>Figure 5: Path Planning Algorithm: Breadth First Search</em></div><br>
 
 <div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/result.PNG"></div>
-<div align="center"><em>Figure 6: Path Planning Result</em></div>
+<div align="center"><em>Figure 6: Path Planning Result</em></div><br>
 
 
 :stars: **Project Result**

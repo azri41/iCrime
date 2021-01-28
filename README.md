@@ -182,4 +182,4 @@ Images with each label(their folder), are being extracted and trained with MTCNN
 
 - Click here to watch our presentation! :wink:
 
-[![iCrime](https://github.com/azri41/iCrime/blob/main/images/thumbnail.PNG)](https://youtu.be/FhC62sJebs8 "iCrime Project Presentation")
+[![iCrime](https://github.com/azri41/iCrime/blob/main/images/thumbnail.JPG)](https://youtu.be/FhC62sJebs8 "iCrime Project Presentation")

@@ -13,7 +13,7 @@
 - Muhammad Azri Bin Azmi
 - Aiman Iskandar Bin Mohd Zaidi
 - Ariff Rahimin Bin Mohamed Norazman
-- Muhammad Haziq Izzuddin Bin Junaidy
+- Muhammad Haziq Izzuddin Bin Mohd Junaidy
 
 :grin: **Objectives:**
 
@@ -47,8 +47,18 @@
 
 :green_book: **Responsibility Assignment Matrices (RAM) :**
 
-- [insert RAM Table include Resource Responsibility, Task/Deliverable (attach a Screen capture of the table).]
-- [Insert List for each of the members for their Roles and Responsibilities).]
+![Responsibility Assignment Matrices (RAM)](https://github.com/azri41/iCrime/blob/main/images/RAM.PNG)
+
+<div align="center"><em>Figure 3: Responsibility Assignment Matrices</em></div><br>
+
+| Name                                     | Roles                   |
+| ---------------------------------------- | ----------------------- |
+| Muhammad Azri Bin Azmi                   | Project Manager         |
+| Aiman Iskandar Bin Mohd Zaidi            | Design Technician       |
+| Ariff Rahimin Bin Mohamed Norazman       | Lead Engineer           |
+| Muhammad Haziq Izzuddin Bin Mohd Junaidy | Senior Project Director |
+
+<br>
 
 :pushpin: **Project Planning Summary:**
 
@@ -66,7 +76,6 @@
 - Analysis Deliverables
 - Design Deliverables
 - Implementation Deliverables
-- Maintenance Deliverables
 
 :open_file_folder: **Tasks and Estimated Costs**
 
@@ -76,33 +85,83 @@
 | Design      | 391,110.00          | System Design, Data Collection                        |
 | Restoration | 1,328,972.00        | Camera Installation, System Installation, Maintenance |
 
+<br>
+
 :calendar: **Milestone Chart**
 
 | Milestone      | Scheduled Completion | Actual Completion |
 | -------------- | -------------------- | ----------------- |
 | Planning       | 28 November 2020     | 27 November 2020  |
 | Analysis       | 30 December 2020     | 21 December 2020  |
-| Design         | 29 January 2021      | 30 January 2020   |
-| Implementation | 28 February 2021     | 26 February 2020  |
-| Maintainance   | 29 March 2021        | 1 April 2020      |
+| Design         | 29 January 2021      | 30 January 2021   |
+| Implementation | 28 February 2021     | 26 February 2021  |
+
+<br>
 
 ## D. EXECUTING THE PROJECT
 
 :bulb: **Project Design and coding**
 
-- [ ] [INSERT your Design - Diagrams]
+**Flow Diagram**
 
-![Coding](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/python-project-real-time-face-mask-detection.jpg)
+![Flow](https://github.com/azri41/iCrime/blob/main/images/design.png)
 
-pip install -r requirement.txt
+<div align="center"><em>Figure 4: Flow Diagram</em></div><br>
 
-- [ ] [INSERT your coding - screen capture of your coding]
+:grin: **CODING:**
 
-![Coding](https://codinglab.jp/wp-content/uploads/2018/05/python.png)
+**Face Recognition**
+<br>
+Command: <em>pip install -r requirement.txt</em>
+
+- Use this command to install the required packages.
+<br>
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Bounding%20Box.JPG"></div>
+<div align="center"><strong><em>Figure 5: Bounding Box</em></strong></div>
+For every face that are detected, a box will be placed based on the face locations. It will crop the face, and apply the model that we train, to recognize the face.<br><br>
+
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Filter_Algo.JPG"></div>
+<div align="center"><strong><em>Figure 6: Filter algorithm</em></strong></div>
+This algorithm filters raw images and select images that have face, and remove images that have no face or bad to detect face.<br><br>
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Training_Model.JPG"></div>
+<div align="center"><strong><em>Figure 7: Training model</em></strong></div>
+Images with each label(their folder), are being extracted and trained with MTCNN. <br><br>
+
+**PATH PLANNING**
+
+- After camera can recognize the criminal face, this algorithm will execute to search the shortest path from police station to criminal(camera)
+- In this project, we use Breadth First Search algorithm for path searching
+
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/main.PNG"></div>
+<div align="center"><strong><em>Figure 9: Main Coding For Path Searching</em></strong></div>
+
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/maze.PNG"></div>
+<div align="center"><strong><em>Figure 10: Map</em></strong></div>
+ The map is hard coding in python. This is the example of maze that have 9x9 dimension.<br><br>
+
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/findend.PNG"></div>
+<div align="center"><strong><em>Figure 11: Path Planning Algorithm: Breadth First Search</em></strong></div>
+ It will find the shortest path between the starting point and any other reachable node.<br><br>
+
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/result.PNG"></div>
+<div align="center"><strong><em>Figure 12: Path Planning Result</em></strong></div>
+ The red color plus symbol shows the path to criminal and white hash symbol shows the building<br><br>
 
 :stars: **Project Result**
 
-- [ ] [INSERT your output or result from your project]
+- Our results contain of labeled face with its confidence level. Figure below shows our system results:
+
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Aiman_Capture.JPG"></div>
+<div align="center"><em>Figure 13: Aiman face result</em></div><br>
+
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Ariff_Capture.JPG"></div>
+<div align="center"><em>Figure 14: Ariff face result</em></div><br>
+
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Azri_Capture.JPG"></div>
+<div align="center"><em>Figure 15: Azri face result</em></div><br>
+
+<div align="center"><img src="https://github.com/azri41/iCrime/blob/main/images/Izz_Capture.JPG"></div>
+<div align="center"><em>Figure 16: Haziq face result</em></div><br>
 
 ## E. COMPLETING THE PROJECT
 
@@ -119,6 +178,8 @@ pip install -r requirement.txt
 
 ## F. PROJECT PRESENTATION
 
-- [ ] [Embed youtube video] or [insert your youtube video link like the example below]
+:movie_camera: **Presentation Video**
 
-[![Ideaku](https://img.youtube.com/vi/1ByNYN1LQAI/0.jpg)](http://www.youtube.com/watch?v=1ByNYN1LQAI "Ideaku")
+- Click here to watch our presentation! :wink:
+
+[![iCrime](https://github.com/azri41/iCrime/blob/main/images/thumbnail.JPG)](https://youtu.be/FhC62sJebs8 "iCrime Project Presentation")

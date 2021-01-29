@@ -15,7 +15,7 @@ resnet = InceptionResnetV1(pretrained='vggface2').eval()
 # Using webcam recognize face
 
 # loading data.pt file
-load_data = torch.load('E:\Tutorial\Python\iCrime\Project_iCrime\data.pt')
+load_data = torch.load(r"F:\UTeM\SEM 5\AIPM\Projects\iCrime\Project_iCrime\data.pt")
 embedding_list = load_data[0]
 name_list = load_data[1]
 

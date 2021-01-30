@@ -169,11 +169,11 @@ Images with each label(their folder), are being extracted and trained with MTCNN
 <br>
 :heavy_check_mark: [Sign Off](https://github.com/azri41/iCrime/blob/main/images/SignOff.PNG)
 <br>
-:heavy_check_mark: [Lesson Learned](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/12%20Project%20Closing.pdf)
+:heavy_check_mark: [Lesson Learned](https://github.com/azri41/iCrime/blob/main/Project%20Documentation/12%20Project%20Closing.pdf)
 <br>
 :heavy_check_mark: [Final Project Report](https://github.com/azri41/iCrime/blob/main/README.md)
 <br>
-:heavy_check_mark: [Close Contract](https://github.com/azri41/iCrime/blob/main/Lab%20and%20project%20progress/09%20Procurement%20Management%20Plan.pdf)
+:heavy_check_mark: [Close Contract](https://github.com/azri41/iCrime/blob/main/Project%20Documentation/09%20Procurement%20Management%20Plan.pdf)
 <br>
 
 ## F. PROJECT PRESENTATION

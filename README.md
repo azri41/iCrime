@@ -192,3 +192,5 @@ Images with each label(their folder), are being extracted and trained with MTCNN
 
 [![iCrime](https://github.com/azri41/iCrime/blob/main/images/demo.PNG)](https://youtu.be/oEbJ9gSC598 "iCrime System Demonstration")
 
+:book: **License**
+This project is protected by this [LICENSE](LICENSE.md) :heart:
